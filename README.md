@@ -1,6 +1,6 @@
 # Retail_Trade_Events_Budget_Analysis
 ![image](https://github.com/AmbalikaDasgupta/Retail_Trade_Events_Budget_Analysis/blob/main/image1.JPG)
-![image](https://github.com/AmbalikaDasgupta/Retail_Trade_Events_Budget_Analysis/blob/main/image2_b.JPG)
+![image](https://github.com/AmbalikaDasgupta/Retail_Trade_Events_Budget_Analysis/blob/main/image2bb.JPG)
 ![image](https://github.com/AmbalikaDasgupta/Retail_Trade_Events_Budget_Analysis/blob/main/image3.JPG)
 ![image](https://github.com/AmbalikaDasgupta/Retail_Trade_Events_Budget_Analysis/blob/main/image4.JPG)
 ![image](https://github.com/AmbalikaDasgupta/Retail_Trade_Events_Budget_Analysis/blob/main/image5.JPG)
