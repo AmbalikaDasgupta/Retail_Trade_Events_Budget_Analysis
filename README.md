@@ -7,7 +7,7 @@
 ![image](https://github.com/AmbalikaDasgupta/Retail_Trade_Events_Budget_Analysis/blob/main/image6.JPG)
 ![image](https://github.com/AmbalikaDasgupta/Retail_Trade_Events_Budget_Analysis/blob/main/image7.JPG)
 ![image](https://github.com/AmbalikaDasgupta/Retail_Trade_Events_Budget_Analysis/blob/main/image8.JPG)
-![image](https://github.com/AmbalikaDasgupta/Retail_Trade_Events_Budget_Analysis/blob/main/image9.JPG)
+![image](https://github.com/AmbalikaDasgupta/Retail_Trade_Events_Budget_Analysis/blob/main/image9_b.JPG)
 ![image](https://github.com/AmbalikaDasgupta/Retail_Trade_Events_Budget_Analysis/blob/main/image10.JPG)
 ![image](https://github.com/AmbalikaDasgupta/Retail_Trade_Events_Budget_Analysis/blob/main/image11.JPG)
 ![image](https://github.com/AmbalikaDasgupta/Retail_Trade_Events_Budget_Analysis/blob/main/image12.JPG)
